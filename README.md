@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="70%">
       <ul>
         <li>☁️ I work on <strong>Azure | Terraform | Docker | Kubernetes | CI/CD | GitHub Actions </strong></li>
         <li>🔐 Passionate about <strong>Cloud Security</strong> & DevSecOps automation</li>

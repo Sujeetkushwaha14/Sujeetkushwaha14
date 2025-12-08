@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
-<h3 align="center">🚀 DevOps Engineer @ Republic World</h3>
+<h1 align="center">Hi 👋, I'm Chandan K Singh </h1>
+<h3 align="center">🚀 DevOps Engineer @ Infinite Computer Solutions</h3>
 
 <table>
   <tr>
@@ -9,7 +9,7 @@
         <li>🔐 Passionate about <strong>Cloud Security</strong> & DevSecOps automation</li>
         <li>🧠 Exploring <strong>GKE, AKS, EKS, monitoring, and production-ready pipelines</strong></li>
         <li>📫 Reach me at: <strong>sujeetkushwaha14@gmail.com</strong></li>
-        <li>🔗 Portfolio: <a href="https://sujeetkushwaha14.github.io" target="_blank"><strong>sujeetkushwaha14.github.io</strong></a></li>        
+        <li>🔗 Portfolio: <a href="https://chandanjataha.github.io" target="_blank"><strong>chandanjataha.github.io</strong></a></li>        
         <li>👀 Visitors count : <img src="https://visitor-badge.laobi.icu/badge?page_id=Sujeetkushwaha14&left_color=blue&right_color=green"/></li>
       </ul>
     </td>    
@@ -23,13 +23,12 @@
 
 **🌐 Connect with Me**
 <p align="left">
-  <a href="https://www.linkedin.com/in/sujeet-kushwaha-915619245" target="_blank">
+  <a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" />
   </a>  
-  <a href="https://www.instagram.com/sujeet2527/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" alt="Instagram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" alt="Instagram" />
   </a>
-  <a href="mailto:sujeetkushwaha14@gmail.com" target="_blank">
+  <a href="mailto:chandanjataha@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" />
   </a>
 </p>
@@ -68,8 +67,8 @@
 
 ### 🎯 Fun Fact
 
-> "I don't just write code — I engineer secure and scalable solutions 🚀."
+> "I don't just write code — I engineer secure, scalable, and reliable solutions."🚀."
 
 ---
 
-<p align="center">Made with ❤️ by Sujeet Kushwaha</p>
+<p align="center">Made with ❤️ by Chandan K Singh</p>

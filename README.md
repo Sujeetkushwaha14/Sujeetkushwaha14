@@ -14,7 +14,7 @@
       </ul>
     </td>    
     <td>
-      <img src="https://github.com/Sujeetkushwaha14/sujeetkushwaha14.github.io/raw/main/assets/Devops%20animation.gif" width="300px" alt="DevOps Animation"/>
+      <img src="https://github.com/Sujeetkushwaha14/sujeetkushwaha14.github.io/raw/main/assets/Devops-animat.gif" width="300px" alt="DevOps Animation"/>
     </td>
   </tr>
 </table>

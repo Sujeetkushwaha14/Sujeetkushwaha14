@@ -60,17 +60,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujeetkushwaha14&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sujeetkushwaha14&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeetkushwaha14&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujeetkushwaha14&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sujeetkushwaha14&theme=github_dark&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujeetkushwaha14&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujeetkushwaha14&theme=github_dark" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Sujeetkushwaha14&theme=github-dark&hide_border=true" />
 </p>
 
 ---
